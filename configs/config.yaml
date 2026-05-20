@@ -1,0 +1,12 @@
+paths:
+  raw_data: data/raw/telecom_churn_sample.csv
+  cleaned_data: data/processed/cleaned_customers.csv
+  feature_data: data/processed/customer_features.csv
+  scored_data: data/processed/customer_churn_scores.csv
+  model_path: models/churn_model.pkl
+
+model:
+  test_size: 0.25
+  random_state: 42
+  high_risk_threshold: 0.75
+  medium_risk_threshold: 0.50

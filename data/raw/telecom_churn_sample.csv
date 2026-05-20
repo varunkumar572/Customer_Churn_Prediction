@@ -1,0 +1,13 @@
+customer_id,tenure_months,monthly_charges,total_charges,contract_type,payment_method,internet_service,support_calls_30d,payment_delay_days,usage_current_month_gb,usage_previous_month_gb,complaints_90d,churn
+C1001,60,95.5,5730,Month-to-month,Electronic check,Fiber optic,4,8,18,45,3,1
+C1002,24,55.0,1320,One year,Credit card,DSL,1,0,40,42,0,0
+C1003,6,105.2,631,Month-to-month,Electronic check,Fiber optic,5,12,10,38,4,1
+C1004,72,70.0,5040,Two year,Bank transfer,DSL,0,0,80,78,0,0
+C1005,18,89.0,1602,Month-to-month,Electronic check,Fiber optic,3,6,22,35,2,1
+C1006,48,65.0,3120,One year,Credit card,DSL,1,1,55,57,1,0
+C1007,12,100.0,1200,Month-to-month,Electronic check,Fiber optic,2,5,20,21,2,1
+C1008,36,45.0,1620,Two year,Bank transfer,None,0,0,15,16,0,0
+C1009,4,79.0,316,Month-to-month,Mailed check,Fiber optic,4,10,8,28,3,1
+C1010,84,60.0,5040,Two year,Credit card,DSL,0,0,65,63,0,0
+C1011,30,98.0,2940,Month-to-month,Electronic check,Fiber optic,3,9,25,50,3,1
+C1012,40,58.0,2320,One year,Bank transfer,DSL,1,0,48,50,0,0
